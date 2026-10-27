@@ -4,7 +4,7 @@
 **Student Name:** Balamurugan P  
 **Department:** B.E. Computer Science and Engineering  
 **Institution:** Saveetha Engineering College, Chennai  
-**GitHub Repository:** [https://github.com/Balamurugan429/Portfolio](https://github.com/Balamurugan429/Portfolio)  
+**GitHub Repository:** [https://github.com/Balamurugan429/Portfolio1](https://github.com/Balamurugan429/Portfolio1)  
 
 ---
 
